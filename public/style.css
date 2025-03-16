@@ -88,3 +88,20 @@ form .form-control:focus {
   border-color: #007bff;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
+
+.offcanvas {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.offcanvas .nav-link {
+  color: #ffffff !important;
+}
+
+.offcanvas .nav-link:hover {
+  color: #007bff !important;
+}
+
+.logo {
+  border-radius: 10%;
+}
